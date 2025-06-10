@@ -96,12 +96,6 @@ jupyter notebook Bloch_MottTransition.ipynb
 
 </div>
   
-  Shows energy level structure and gaps as a function of interaction strength
-
-- **Number Fluctuations (4-site chain):**
-  ![bloch_BH4_fluctuations](bloch_BH4_fluctuations.png)
-  
-  Demonstrates how particle number fluctuations are suppressed as the system transitions from superfluid to Mott insulator
 
 ## How to Run
 
